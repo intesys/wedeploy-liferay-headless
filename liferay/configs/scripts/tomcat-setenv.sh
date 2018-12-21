@@ -1,0 +1,1 @@
+cp -f /etc/liferay/mount/scripts/tomcat/bin/setenv.sh ${LIFERAY_HOME}/tomcat/bin
